@@ -1,0 +1,58 @@
+SU siteden basliyoruz 
+
+https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll#creating-a-repository-for-your-site
+
+
+RUBY icin ruby -v even this got the results, it's better to work with a virtual enviroment and later switch between ruby versions
+https://stackoverflow.com/questions/37720892/you-dont-have-write-permissions-for-the-var-lib-gems-2-3-0-directory
+cd $HOME
+sudo apt-get update 
+sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties libffi-dev
+
+git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+exec $SHELL
+
+git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
+exec $SHELL
+
+rbenv install -l
+//Choose the biggest number 
+rbenv install 2.5.8
+rbenv global 2.5.8
+ruby -v
+
+
+
+Now, for the BUNDLER
+gem install bundler
+rbenv rehash
+
+Then continue the steps in github to open a repository. Locate it in your machine. 
+git init reponame.github.io
+git checkout --orphan gh-pages
+cd h9.github.io/
+touch ./Gemfile
+sudo gedit ./Gemfile 
+//Add these to your Gemfile as in here https://bundler.io/
+source 'https://rubygems.org'
+gem 'nokogiri'
+gem 'rack', '~> 2.0.1'
+gem 'rspec'
+gem 'jekyll', '~> 3.9.0'
+//Save and quit Then
+
+bundle install
+git add Gemfile Gemfile.lock
+gem install jekyll 
+bundle exec jekyll --force  new .
+//This will create a new Ge,file and overwrites your existing repo.
+//Open the Gemfile and uncomment gb-pages and comment the above jekyll line
+bundle update 
+ 
+//For testing 
+bundle exec jekyll serve
+//Go to the link in server address.
+
