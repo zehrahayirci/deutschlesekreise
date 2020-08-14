@@ -1,0 +1,6 @@
+- title: Posts
+  url: /posts/
+- title: External Page
+  url: https://whatever-site.com/page.html
+- title: Search
+  url: /search/
