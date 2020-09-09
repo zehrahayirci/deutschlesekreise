@@ -1,8 +1,9 @@
 ---
-title: "Berlin:The Barn"
+title: "Berlin: The Barn"
+date:   2020-03-07 11:54:51 +0200
 image: 
-  path: /images/chocolate-chip-cookies-lg.jpg
-  thumbnail: /images/chocolate-chip-cookies-400x200.jpg
+  path: /images/thebarn2.jpg
+  thumbnail: /images/thebarn2.jpg
   caption: "Photo from [TheBarn](https://thebarn.de/)"
 categories:
   - coffee
@@ -10,7 +11,7 @@ tags:
   - coffee
   - Berlin
   - layout
-date:01-03-2020
+
 ---
 
 With the start of Corona virus lockdown, all of the coffeshops are closed. We want to help local cofee shops during this hard times.
