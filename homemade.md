@@ -1,10 +1,10 @@
 ---
-title: Homemade
+title: Magazines
 layout: collection
-permalink: /homemade/
-collection: homemade
+permalink: /magazines/
+collection: magazines
 entries_layout: grid
 ---
 
-Sample document listing for the collection `_homemade`.
+Alle zwei Wochen treffen wir uns, um einen Artikel aus dem [Deutsch Perfekt Magazin](https://www.deutsch-perfekt.com/) zu besprechen.
 
