@@ -67,7 +67,7 @@ defaults:
       share: true
    # Coffee defaults
   - scope:
-      path: "_coffee"
+      path: "_archive"
       type: archive
     values:
       layout: post
