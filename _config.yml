@@ -68,7 +68,7 @@ defaults:
    # Coffee defaults
   - scope:
       path: "_coffee"
-      type: Archive
+      type: archive
     values:
       layout: post
       comments: true
