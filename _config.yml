@@ -48,10 +48,10 @@ plugins:
 
 # Collections
 collections:
-  homemade:
+  archive:
     output: true
     permalink: /:collection/:path/
-  coffee:
+  magazine:
     output: true
     permalink: /:collection/:path/
     
@@ -59,8 +59,8 @@ collections:
 defaults:
   # Recipe defaults
   - scope:
-      path: "_homemade"
-      type: homemade
+      path: "_magazine"
+      type: magazine
     values:
       layout: post
       comments: false
