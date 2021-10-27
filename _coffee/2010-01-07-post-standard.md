@@ -1,16 +1,15 @@
 ---
-title: "Post: Twitter Embed"
-categories:
-  - Media
-tags:
-  - content
-  - embeds
-  - media
-  - twitter
-last_modified_at: 2017-03-09T12:57:42-05:00
+title:        "Brief Einer Unbekannten"
+description:  "Ein Liebesbrief erreicht den Romancier und Lebemann R. an seinem einundvierzigsten Geburtstag – die leidenschaftliche Lebensbeichte einer Frau, deren Lebensmittelpunkt er war."
+image:        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172512508l/182185.jpg"
+author:       "Stefan Zweig"
 ---
+![brief](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172512508l/182185.jpg "Brief Einer Unbekannten")
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Oh I dunno. It&#39;s probably been over 15 years since I smudged out a face with a pencil and kneaded eraser. <a href="https://twitter.com/hashtag/WIP?src=hash">#WIP</a> <a href="https://twitter.com/hashtag/Sktchy?src=hash">#Sktchy</a> <a href="https://t.co/PwqbMddyVK">pic.twitter.com/PwqbMddyVK</a></p>&mdash; Michael Rose (@mmistakes) <a href="https://twitter.com/mmistakes/status/826644109670612997">February 1, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Dies war das erste Buch, das wir besprochen haben.
+Obwohl wir alle Frauen waren, fiel es uns schwer, uns in die Hauptfigur einzufühlen. 
 
-This post tests Twitter Embeds.
+Die Schwierigkeit: 5/5 (Sehr schwer)
+Die Geschichte: 4/5
+Seite: 96
+ 
