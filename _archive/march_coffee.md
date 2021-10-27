@@ -1,6 +1,7 @@
 ---
 title: "Berlin: The Barn"
 date:   2020-03-07 11:54:51 +0200
+layout : post
 image: 
   path: /images/thebarn2.jpg
   thumbnail: /images/thebarn2.jpg
