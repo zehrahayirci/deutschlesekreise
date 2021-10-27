@@ -1,6 +1,7 @@
 ---
 title:  "Buch des Novembers"
 date:   2021-10-27
+layout : post
 categories: 
    - Home Formats
 ---
