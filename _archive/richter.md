@@ -6,8 +6,9 @@ description:  "Der Richter und sein Henker ist einer seiner berühmtesten Romane
 image:        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518001739l/610159._SY475_.jpg"
 author:       "Friedrich Dürrenmatt"
 ---
-![richter](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518001739l/610159._SY475_.jpg "Richter")
 
+<!---![richter](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518001739l/610159._SY475_.jpg "Richter")
+--->
 Einen Krimi zu lesen ist immer spannend!
 
 * Die Schwierigkeit: 4/5 
