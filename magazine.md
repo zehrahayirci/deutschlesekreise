@@ -1,8 +1,8 @@
 ---
 title: Magazines
 layout: collection
-permalink: /magazines/
-collection: magazines
+permalink: /magazine/
+collection: magazine
 entries_layout: grid
 ---
 
