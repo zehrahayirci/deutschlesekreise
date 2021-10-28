@@ -16,7 +16,7 @@
 title: Frauen Lesekreise
 # email: your-email@example.com
 description: "" # this means to ignore newlines until "baseurl:"
-logo: "/images/logo.jpeg"
+logo: "/images/Screenshot 2021-10-28 at 21.29.28.png"
 date_format: "%B %-d, %Y"
 mathjax:
   enable: true
