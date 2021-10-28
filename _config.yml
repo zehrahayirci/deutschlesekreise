@@ -57,7 +57,7 @@ collections:
 # Front Matter Defaults
 defaults:
   # Recipe defaults
-    - scope:
+  - scope:
       path: "_posts"
       type: posts
     values:
