@@ -1,6 +1,5 @@
 ---
 title:  "Buch des Novembers"
-hidden:   false
 last_modified_at: 27-10-2021
 ---
 Diesen Monat werden wir Siddartha von Hermann Hesse lesen! Wir sehen uns in einem Monat! 
