@@ -1,11 +1,13 @@
 ---
 title:        "Schuld"
 layout:       "post"
-description:  "Mit bohrender Intensität und in seiner unvergleichlichen lyrisch-knappen Sprache stellt er leise, aber bestimmt die Frage nach Gut und Böse, Schuld und Unschuld und nach der moralischen Verantwortung eines jeden Einzelnen von uns."
 image:        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328977763l/8846471.jpg"
-author:       "by Ferdinand von Schirach"
+author:       "Ferdinand von Schirach"
 ---
+
 ![schuld](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328977763l/8846471.jpg "Schuld")
+
+Mit bohrender Intensität und in seiner unvergleichlichen lyrisch-knappen Sprache stellt er leise, aber bestimmt die Frage nach Gut und Böse, Schuld und Unschuld und nach der moralischen Verantwortung eines jeden Einzelnen von uns.
 
 Dies war das erste Buch, das wir besprochen haben.
 Obwohl wir alle Frauen waren, fiel es uns schwer, uns in die Hauptfigur einzufühlen. 
