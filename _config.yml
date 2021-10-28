@@ -51,10 +51,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   archive:
-    output: false
+    output: true
     permalink: /:collection/:path/
   magazine:
-    output: false
+    output: true
     permalink: /:collection/:path/
     
 # Front Matter Defaults
@@ -71,7 +71,7 @@ defaults:
       path: "_magazine"
       type: magazine
     values:
-      layout: post
+      layout: collection
       comments: false
       share: false
    # Coffee defaults
@@ -79,6 +79,6 @@ defaults:
       path: "_archive"
       type: archive
     values:
-      layout: post
+      layout: collection
       comments: true
       share: true  
