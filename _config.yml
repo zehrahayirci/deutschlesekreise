@@ -47,6 +47,9 @@ plugins:
 
 # Collections
 collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/
   archive:
     output: true
     permalink: /:collection/:path/
