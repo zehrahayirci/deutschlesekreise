@@ -1,14 +1,12 @@
 ---
-title: "Post: Modified Date"
+title: "Neu:Book des Novembers"
 categories:
-  - Post Formats
+  - Buch
 tags:
-  - Post Formats
-  - readability
-  - standard
-last_modified_at: 2017-03-09T13:01:27-05:00
+  - Buch
+  - November
+last_modified_at: 2021-10-29T13:01:27-05:00
 ---
 
-This post has been updated and should show a modified date if `last_modified_at` is used in the layout.
-
-Plugins like [**jekyll-sitemap**](https://github.com/jekyll/jekyll-feed) use this field to add a `<lastmod>` tag your `sitemap.xml`.
+Diesen Monat werden wir Siddartha von Hermann Hesse lesen! Wir sehen uns in einem Monat!
+![image](https://user-images.githubusercontent.com/14193782/139135016-e536c730-5a49-41da-8e2e-723a78517ba8.png "book")
