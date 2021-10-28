@@ -1,7 +1,6 @@
 ---
 title:        "Schuld"
 layout:       "post"
-image:        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328977763l/8846471.jpg"
 author:       "Ferdinand von Schirach"
 ---
 
