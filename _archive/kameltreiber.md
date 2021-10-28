@@ -1,3 +1,4 @@
+---
 title:        "Der Kameltreiber von Heidelberg"
 layout:       post
 author:       "Rafik Schami"
