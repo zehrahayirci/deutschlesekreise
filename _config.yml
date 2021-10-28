@@ -79,6 +79,8 @@ defaults:
       path: "_archive"
       type: archive
     values:
+      author: true
       layout: collection
       comments: true
       share: true  
+      
