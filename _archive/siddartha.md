@@ -12,4 +12,5 @@ Leider war es keine leichte Lektüre. Es gab viele Wörter, die obsolet sind ode
 * Die Schwierigkeit: 4/5 (Sehr schwer)
 * Die Geschichte: 5/5
 * Seite: 152
+* Am 23.11.2021
  
