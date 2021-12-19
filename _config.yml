@@ -23,8 +23,8 @@ mathjax:
 read_time: false
 paginate: 10
 paginate_path: /page:num/
-baseurl: "/deutschlesekreise" # the subpath of your site, e.g. /blog
-url: "https://zehrahayirci.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://lesendezugvogel.com" #"https://zehrahayirci.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
